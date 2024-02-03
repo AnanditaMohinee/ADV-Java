@@ -1,15 +1,27 @@
+<<<<<<< HEAD
 
 
+=======
+<<<<<<< HEAD
+>>>>>>> foods
 Jalebi
 samosa
 gulabjamun
 dry cake
 runni
+<<<<<<< HEAD
 
 
+=======
+=======
+>>>>>>> foods
 three idoits
 swdesh
 hnuman
 ironman
 rocketroy
+<<<<<<< HEAD
 
+=======
+>>>>>>> movies
+>>>>>>> foods
